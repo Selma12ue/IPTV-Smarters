@@ -1,7 +1,10 @@
 #EXTM3U
 #PLAYLIST:example
-# Built with the CODECS.COM Playlist Builder
+# Not finished.
 
 #EXTINF:-1 tvg-id="DisneyChannel.de@SD" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/2010_Disney_Channel_logo.svg/3840px-2010_Disney_Channel_logo.svg.png?utm_source=pt.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="Kids",Disney Channel Germany
 https://selma12ue.github.io/IPTV-Smarters/streams/nickde.m3u
+
+#EXTINF:-1 tvg-id="Nickelodeon.de@HD" tvg-logo="https://static.wikia.nocookie.net/canais-infantis/images/f/ff/Nickelodeon_2023.png/revision/latest?cb=20240122161035&path-prefix=pt-br" group-title="Kids",Nickelodeon Germany
+https://selma12ue.github.io/IPTV-Smarters/streams/nickde2.m3u
 
