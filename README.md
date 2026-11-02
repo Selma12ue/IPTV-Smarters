@@ -7,7 +7,7 @@ https://anondrop.net/1566455543428546623
 ```
 
 # Instant download File
-[Download File](https://anondrop.net/1566455543428546623/com.nst.iptvsmarterstvbox_4.0.3.apk?download=true&token=ab23fa2a-1874-46bd-a5b3-1ecdb3f0f2c1)
+[Download File](https://anondrop.net/1566455543428546623/com.nst.iptvsmarterstvbox_4.0.3.apk?download=true&token=cc81bf99-2fea-4c73-bf2d-11727dedeafb)
 
 Has a token, so its gonna expire soon
 
