@@ -1,5 +1,6 @@
 # IPTV-Smarters
-Not mine. made by https://www.iptvsmarters.com.
+Not mine. made by https://www.iptvsmarters.com,
+Does not contain channels for free.
 
 # Download:
 ```
