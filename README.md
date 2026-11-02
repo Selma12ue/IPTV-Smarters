@@ -5,15 +5,21 @@ Not mine. made by https://www.iptvsmarters.com,
 Does not contain channels for free.
 
 # Download:
-```
-https://anondrop.net/1566455543428546623
-```
-https://anondrop.net/1566455543428546623
 
+```
+https://anondrop.net/1566455543428546623
+```
+```
+https://github.com/Selma12ue/IPTV-Smarters/releases/tag/IPTV-SMARTERS
+```
 # Instant download File
 [Download File](https://anondrop.net/1566455543428546623/com.nst.iptvsmarterstvbox_4.0.3.apk?download=true&token=cc81bf99-2fea-4c73-bf2d-11727dedeafb)
 
 Has a token, so its gonna expire soon
+
+[Download File 2](https://github.com/Selma12ue/IPTV-Smarters/releases/download/IPTV-SMARTERS/com.nst.iptvsmarterstvbox_4.0.3.apk)
+
+Does not have a token.
 
 # Screenshots:
 
